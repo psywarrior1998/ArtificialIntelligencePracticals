@@ -1,3 +1,5 @@
+#Water Jug Pracs where the glasses are fixed i.e. 4 and 3 and so is the amount to be measured i.e. 2
+
 while 1:
     j1 = 0
     j2 = 0

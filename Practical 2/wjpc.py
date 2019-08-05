@@ -1,3 +1,5 @@
+#Water Jug Pracs where the capacity of Jugs and the amount to be measured is user defined 
+
 while 1:
     j1 = 0
     jo = 0

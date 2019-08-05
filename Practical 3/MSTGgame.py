@@ -1,3 +1,5 @@
+#Man Tiger Cow Grass Puzzle Game Pracs
+
 def PlayGame(BankA, BankB):
     Lives = 3
     while BankA != ['', '', '', '']:
