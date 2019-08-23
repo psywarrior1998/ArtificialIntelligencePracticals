@@ -11,8 +11,8 @@ while 1:
         while (j1 != o) & (jo != o):
             print(str(m)+"L jug`s content is " + str(j1) + " \n"+str(n)+"L jug`s content is " + str(jo))
             print(
-                "Please Choose Your Action \n 1. Fill "+str(m)+"L Jug Totally \n o. Fill "+str(n)+"L Jug Totally \n n. Empty "+str(m)+"L Jug \n "
-                "m. Empty "+str(n)+"L Jug \n 5. Transfer all the water from "+str(m)+"L Jug to "+str(n)+"L Jug \n 6. Transfer all the water from "
+                "Please Choose Your Action \n 1. Fill "+str(m)+"L Jug Totally \n 2. Fill "+str(n)+"L Jug Totally \n 3. Empty "+str(m)+"L Jug \n "
+                "4. Empty "+str(n)+"L Jug \n 5. Transfer all the water from "+str(m)+"L Jug to "+str(n)+"L Jug \n 6. Transfer all the water from "
                 ""+str(n)+"L Jug to "+str(m)+"L Jug \n 7. Transfer some water from "+str(m)+"L Jug to "+str(n)+"L Jug till "+str(n)+"L jug is full \n 8. Transfer "
                 "some water from "+str(n)+"L Jug to "+str(m)+"L Jug till "+str(m)+"L jug is full")
             ch = int(input("What's your Choice"))
